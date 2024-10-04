@@ -18,6 +18,10 @@
 
 ###
 
+<img align="right" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/928b67167291489.64264940ecfd8.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
   <img width="12" />
@@ -52,7 +56,6 @@
 
 ###
 
-<img align="right" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/928b67167291489.64264940ecfd8.gif"  />
 
 ###
 
