@@ -7,6 +7,7 @@
 ###
 
 <h3 align="center">Hi 👋! My name is Rangga and I'm a Backend, from Indonesia</h3>
+<hr />
 
 ###
 
@@ -17,6 +18,8 @@
 </div>
 
 ###
+
+<hr />
 
 <img align="right" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/928b67167291489.64264940ecfd8.gif"  />
 
@@ -74,6 +77,8 @@
 </div>
 
 ###
+
+<hr />
 
 <br clear="both">
 
