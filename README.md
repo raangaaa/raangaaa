@@ -1,5 +1,5 @@
 ###
-<h2 align="left">👋 Hi! My name is Rangga and I'm a Backend, from Indonesia</h2>
+<h2 align="left">👋 Hi! My name is Rangga and I'm a from Indonesia</h2>
 <div align="left">
   <img height="250" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"  />
 </div>
