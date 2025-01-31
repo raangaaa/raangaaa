@@ -1,5 +1,5 @@
 ###
-<h1 align="left">Yollo Sekai! <img align="left" height="50" src="https://ajojutufhhvhugrjroiw.supabase.co/storage/v1/object/public/portofolio/github/_readme/dub.gif" /></h1>
+<h1 align="left">Yollo Sekai! <img align="left" height="50" src="https://github.com/raangaaa/raangaaa/blob/8937ebcb263d6bf975ed6f7fd12327356a871757/assets/dub.gif" /></h1>
 
 
 ###
