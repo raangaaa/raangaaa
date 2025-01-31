@@ -1,17 +1,48 @@
 ###
-<h2 align="left">👋 Hi! My name is Rangga and I'm from Indonesia </h2>
-<div align="left">
-  <img height="250" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
-</div>
+<h1 align="left">Yollo Sekai! <img align="left" height="50" src="https://ajojutufhhvhugrjroiw.supabase.co/storage/v1/object/public/portofolio/github/_readme/dub.gif" /></h1>
+
 
 ###
 <br clear="both">
 <h2 align="left">📊 Github Stats</h2>
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=raangaaa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=raangaaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-    <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raangaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false" height="150" alt="programing languages graph"  />
+<div>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=raangaaa&theme=jolly&show_icons=true&hide_border=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=raangaaa&show_icons=true&hide_border=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=raangaaa&show_icons=true&hide_border=true&count_private=true" />
+  </picture>
+</div>
+<div>
+  <picture>
+    <source
+      srcset="https://git-hub-streak-stats.vercel.app?user=raangaaa&theme=jolly&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://git-hub-streak-stats.vercel.app?user=raangaaa&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="400" src="https://git-hub-streak-stats.vercel.app?user=raangaaa&hide_border=true" />
+  </picture>
+</div>
+<div>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raangaaa&theme=jolly&show_icons=true&hide_border=true&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raangaaa&show_icons=true&hide_border=true&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raangaaa&show_icons=true&hide_border=true&layout=compact" />
+  </picture>
 </div>
 
 ###
