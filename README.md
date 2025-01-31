@@ -4,7 +4,7 @@
 
 ###
 <br clear="both">
-<h2 align="left">📊 Github Stats</h2>
+<h2 align="left"><img align="left" height="30" src="https://github.com/raangaaa/raangaaa/blob/ecb87803f192d51cfcfb385e74fa13f9cdaf1540/assets/stats.png"  />  Github Stats</h2>
 <div>
   <picture>
     <source
@@ -47,8 +47,7 @@
 
 ###
 <br clear="both">
-<h2 align=left>💻 Tech Stacks</h2>
-<img align="right" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/928b67167291489.64264940ecfd8.gif"  />
+<h2 align=left><img align="left" height="30" src="https://github.com/raangaaa/raangaaa/blob/ecb87803f192d51cfcfb385e74fa13f9cdaf1540/assets/hacker.png"  /> Tech Stacks</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
